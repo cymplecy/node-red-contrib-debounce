@@ -1,7 +1,7 @@
 {
   "name": "node-red-contrib-debounce",
-  "version": "0.0.2",
-  "author": "Anthony Giniers",
+  "version": "0.0.3",
+  "author": "Anthony Giniers modified by Simon Walters",
   "description": "A debounce node for node-red",
   "license": "MIT",
   "repository": {
@@ -19,3 +19,4 @@
     }
   }
 }
+
